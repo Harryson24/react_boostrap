@@ -1,0 +1,14 @@
+.main-content {
+    background-color: white;
+    min-height: 100vh;
+    padding: 20px;
+    position: relative;
+}
+
+.badge-logo {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    width: 64px;
+    height: 64px;
+}
